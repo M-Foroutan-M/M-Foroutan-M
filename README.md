@@ -1,6 +1,6 @@
 # 👋 Hi there
 
-My name is Mohammad Foroutan. I’m currently doing my MSc in Robotics and Autonomous Systems at Aston University, UK, with a background in Mechanical Engineering.<br><br>I like building systems that actually work, giving cold metal a mind of its own to perceive, navigate, and act in the wild.<br>I work across robotics (ROS 2, SLAM, motion planning), developing autonomous systems for platforms like UGVs and robotic arms. Alongside that, I build embedded and IoT-based systems for sensing, control, and data collection for various use cases.<br><br>I am passionate about mechatronics and challenges including hardware, software, and control aspects.<br><br>
+My name is Mohammad Foroutan. I’m currently doing my MSc in Robotics and Autonomous Systems at Aston University, UK, with a background in Mechanical Engineering.<br><br>I like building systems that actually work, giving cold metal a mind of its own to perceive, navigate, and act in the wild.<br>I work across robotics (ROS, SLAM, motion planning), developing autonomous systems for platforms like UGVs and robotic arms. Alongside that, I build embedded and IoT-based systems for sensing, control, and data collection for various use cases.<br><br>I am passionate about mechatronics and challenges including hardware, software, and control aspects.<br><br>
 <div align="center">
 
 ## 🌐 Socials:
